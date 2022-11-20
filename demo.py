@@ -1,2 +1,2 @@
 print('hello')
-print (how R U)
+print (how ar u)
